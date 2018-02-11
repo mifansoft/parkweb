@@ -1,0 +1,407 @@
+{"level":"info","ts":"2018-02-09 09:21:35","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 09:28:45","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 09:28:45","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 09:28:48","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 09:28:49","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 09:28:49","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 09:28:50","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 09:28:50","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 09:32:51","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 09:32:55","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 09:32:56","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 09:32:57","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 10:29:25","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 10:37:18","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 10:37:18","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:37:21","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:37:21","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 10:37:21","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:37:22","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 10:37:22","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:37:31","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:37:31","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:37:32","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:43:10","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:43:11","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:43:12","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:43:18","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:43:19","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:43:21","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:43:23","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"error","ts":"2018-02-09 10:43:23","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:43:24","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:43:28","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:43:49","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:43:50","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:43:52","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 10:47:50","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 10:54:04","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 10:54:05","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:54:06","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 10:54:06","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:54:07","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 10:54:07","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:54:41","caller":"models/RoleResModel.go:322","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"info","ts":"2018-02-09 10:55:35","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 10:55:46","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 10:55:47","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 10:55:47","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 10:55:47","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 10:55:47","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 10:56:23","caller":"models/RoleResModel.go:308","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"error","ts":"2018-02-09 10:56:39","caller":"controllers/RoleResController.go:109","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"error","ts":"2018-02-09 10:56:45","caller":"models/RoleResModel.go:308","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"error","ts":"2018-02-09 10:56:47","caller":"controllers/RoleResController.go:109","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"error","ts":"2018-02-09 10:57:34","caller":"models/RoleResModel.go:308","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"error","ts":"2018-02-09 10:57:48","caller":"controllers/RoleResController.go:109","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"error","ts":"2018-02-09 11:00:08","caller":"models/RoleResModel.go:308","msg":"Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?) AND (res_id = ?)' at line 1"}
+{"level":"info","ts":"2018-02-09 11:00:35","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 11:00:37","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:00:38","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:00:38","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:00:39","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:00:39","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 11:02:10","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 11:02:11","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:02:12","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:02:12","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:02:13","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:02:13","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 11:03:38","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 11:03:40","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:03:41","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:03:41","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:03:41","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:03:41","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 11:04:23","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 11:04:34","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:04:34","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:04:34","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:04:35","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:04:35","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 11:05:39","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 11:05:40","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:05:41","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:05:41","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:05:41","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:05:41","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 11:20:48","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 11:20:50","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:20:52","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:20:52","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:20:53","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:20:53","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 11:27:53","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 11:28:40","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:28:41","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:28:41","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:28:42","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:28:42","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:36:20","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:36:20","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 11:36:23","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:36:24","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:36:25","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:36:25","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:36:28","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:36:44","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 11:52:36","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 11:53:46","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:53:46","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 11:53:49","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 11:53:50","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:53:50","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 11:53:51","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 11:53:51","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:06:51","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 13:06:55","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:06:55","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 13:06:57","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:06:59","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:06:59","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:07:01","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:07:01","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:07:55","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 13:08:27","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:08:28","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:08:28","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:08:29","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:08:29","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 13:08:30","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:08:31","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:08:32","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:08:32","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 13:08:33","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:08:34","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:08:36","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:09:02","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 13:14:47","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:14:48","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:14:48","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:14:49","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:14:49","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 13:14:57","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:14:59","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:15:00","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:16:13","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 13:16:15","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:16:16","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:16:16","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:16:17","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:16:17","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:18:13","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 13:18:16","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:18:16","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 13:18:19","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:18:21","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:18:21","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:18:22","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:18:22","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 13:18:27","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:18:28","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:18:29","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:19:21","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 13:19:54","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:19:55","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:19:55","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:19:56","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:19:56","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 13:21:49","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:21:50","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:21:50","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:49:01","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 13:49:03","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:49:03","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:49:03","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:49:04","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:49:04","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 13:50:17","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 13:58:54","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 13:58:55","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:58:55","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 13:58:56","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 13:58:56","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 14:03:34","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 14:05:15","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 14:05:21","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:05:22","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:05:22","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:05:23","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:05:23","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 14:07:16","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 14:07:27","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:07:27","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 14:07:30","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:07:31","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:07:31","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:07:32","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:07:32","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 14:11:43","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 14:11:52","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:11:53","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:11:53","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:11:54","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:11:54","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 14:12:20","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 14:12:22","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:12:23","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:12:23","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:12:24","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:12:24","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 14:21:08","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 14:34:41","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 14:34:46","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:34:47","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:34:47","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:34:48","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:34:48","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 14:39:42","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 14:39:45","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:39:46","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:39:46","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:39:47","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:39:47","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 14:40:44","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:40:45","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:40:48","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:40:48","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 14:40:56","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:40:58","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:40:59","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 14:56:38","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 14:56:40","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 14:56:41","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:56:41","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 14:56:42","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 14:56:42","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 15:05:15","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 15:05:22","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:05:24","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:05:24","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:05:26","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:05:26","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:11:15","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:11:15","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 15:17:50","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 15:18:03","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:18:03","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 15:18:06","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:18:07","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:18:07","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:18:08","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:18:08","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 15:18:32","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 15:18:34","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:18:35","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:18:35","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:18:36","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:18:36","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 15:22:14","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 15:22:18","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:22:19","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:22:19","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:22:19","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:22:19","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 15:22:20","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:22:21","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:22:21","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:22:21","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 15:31:49","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 15:31:51","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:31:52","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:31:52","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:31:52","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:31:52","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 15:59:00","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 15:59:11","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:59:12","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:59:12","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:59:13","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:59:13","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 15:59:33","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 15:59:33","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 15:59:34","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:59:34","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 15:59:35","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 15:59:35","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:01:55","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 16:08:29","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:08:31","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:08:32","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:08:32","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:08:33","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:08:33","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:09:18","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:09:18","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:09:19","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:09:19","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:09:19","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:09:19","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:10:04","caller":"models/RoleUserModel.go:116","msg":"Error 1452: Cannot add or update a child row: a foreign key constraint fails (`park`.`sys_role_user`, CONSTRAINT `fk_role_user_update_user_id` FOREIGN KEY (`update_user_id`) REFERENCES `sys_user` (`id`))"}
+{"level":"info","ts":"2018-02-09 16:11:04","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:11:04","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:11:05","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:11:05","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:11:06","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:11:06","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:11:25","caller":"models/RoleUserModel.go:55","msg":"Error 1103: Incorrect table name ''"}
+{"level":"info","ts":"2018-02-09 16:12:04","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:12:05","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:12:06","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:12:06","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:12:07","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:12:07","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:12:14","caller":"models/RoleUserModel.go:55","msg":"Error 1103: Incorrect table name ''"}
+{"level":"error","ts":"2018-02-09 16:12:24","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:12:25","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:12:26","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:13:34","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:13:38","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:13:39","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:13:39","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:13:40","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:13:40","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:15:18","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:15:18","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:15:19","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:15:19","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:15:20","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:15:20","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:17:51","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:17:53","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:17:54","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:17:54","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:17:54","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:17:54","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:19:27","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:19:27","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:19:31","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:19:32","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:19:33","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:26:44","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:26:45","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:26:46","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:26:53","caller":"controllers/RoleUserController.go:125","msg":"unexpected end of JSON input"}
+{"level":"error","ts":"2018-02-09 16:26:53","caller":"controllers/RoleUserController.go:125","msg":"unexpected end of JSON input"}
+{"level":"info","ts":"2018-02-09 16:28:08","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:28:10","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:28:11","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:28:11","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:28:12","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:28:12","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:28:36","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:28:36","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:28:37","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:28:37","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:28:38","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:28:38","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:29:42","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:29:50","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:29:51","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:29:51","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:29:51","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:29:51","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:30:56","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:30:59","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:30:59","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:31:03","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:31:05","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:31:06","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:31:06","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:52:51","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"debug","ts":"2018-02-09 16:52:57","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:52:57","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"error","ts":"2018-02-09 16:53:00","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:53:02","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:53:02","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:53:03","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:53:03","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:54:08","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 16:54:10","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 16:54:11","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:54:11","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 16:54:12","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 16:54:12","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 16:58:58","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 16:59:48","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 17:00:14","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 17:00:19","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 17:00:20","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 17:00:20","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 17:00:21","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 17:00:21","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 17:00:59","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 17:01:16","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 17:01:17","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 17:01:18","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 17:01:18","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 17:01:19","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 17:01:19","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"info","ts":"2018-02-09 17:03:01","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"info","ts":"2018-02-09 17:03:21","caller":"service/Bootstrap.go:83","msg":"start web server with http. url is: http://8080"}
+{"level":"error","ts":"2018-02-09 17:03:21","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"error","ts":"2018-02-09 17:03:25","caller":"models/LoginModel.go:117","msg":"Error 1054: Unknown column 'sys_index_page' in 'field list'"}
+{"level":"debug","ts":"2018-02-09 17:03:26","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 17:03:26","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
+{"level":"debug","ts":"2018-02-09 17:03:27","caller":"groupcache/StaticFilesCache.go:53","msg":"get html data from disk."}
+{"level":"debug","ts":"2018-02-09 17:03:27","caller":"groupcache/StaticFilesCache.go:66","msg":"get data from cache."}
